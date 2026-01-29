@@ -71,7 +71,6 @@ const PolizaDelete = async (id) => {
     throw new Error(msg || "Error deleting poliza");
   }
 
-  // si tu backend devuelve algo, puedes return res.json()
   return true;
 };
 
