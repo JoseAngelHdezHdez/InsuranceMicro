@@ -100,11 +100,11 @@ const CreateCotizacionModal = ({ show, onClose, onSubmit }) => {
         gender: form.gender,
       };
 
-      // onCreate lo mandas desde la pantalla (para pegarle al servicio real)
+      
       await onCreate(payload);
 
       onClose();
-      onCreated?.(); // recargar tabla
+      onCreated?.();
     } catch (err) {
       console.error(err);
       alert("No se pudo crear la cotización.");
