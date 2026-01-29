@@ -27,7 +27,7 @@ const Login = () => {
     const handleSubmit = async(e) => {
         e.preventDefault();
         console.log("loginForm =>", loginForm);
-        // Aquí puedes agregar la lógica para enviar los datos del formulario al servidor
+        
         const data = await login(loginForm.email, loginForm.password);
 
         if(!data){
