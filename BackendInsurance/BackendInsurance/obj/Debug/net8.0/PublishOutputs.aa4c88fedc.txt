@@ -1,0 +1,11 @@
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\BackendInsurance.exe
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\BackendInsurance.dll
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\BackendInsurance.deps.json
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\BackendInsurance.runtimeconfig.json
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\BackendInsurance.pdb
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josea\Desktop\BackendInsurance\BackendInsurance\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

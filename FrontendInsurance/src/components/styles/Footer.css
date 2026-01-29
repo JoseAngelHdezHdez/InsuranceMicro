@@ -1,0 +1,18 @@
+.footer-first-text {
+    color: white;
+}
+
+.footer-first-text div {
+    margin-bottom: 1rem;
+}
+
+.footer-first-text div p {
+    margin: 0;
+    font-family: Raleway;
+    font-size: 12px;
+}
+
+.footer-logos {
+    display: grid;
+    place-items: center;
+}

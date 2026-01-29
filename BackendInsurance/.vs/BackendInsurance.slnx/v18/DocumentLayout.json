@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josea\\Desktop\\BackendInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\validators\\poliza\\polizaupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\validators\\poliza\\polizaupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\validators\\user\\userinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\validators\\user\\userinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|c:\\users\\josea\\desktop\\backendinsurance\\backendinsurance\\dtos\\poliza\\polizainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EC94A-84A7-4769-8CAB-12BC7B9D7E1A}|BackendInsurance\\BackendInsurance.csproj|solutionrelative:backendinsurance\\dtos\\poliza\\polizainsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolizaUpdateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Validators\\Poliza\\PolizaUpdateValidator.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Validators\\Poliza\\PolizaUpdateValidator.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Validators\\Poliza\\PolizaUpdateValidator.cs",
+              "RelativeToolTip": "BackendInsurance\\Validators\\Poliza\\PolizaUpdateValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:54:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BackendInsurance\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:46:44.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "BackendInsurance\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:45:34.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "BackendInsurance\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:44:45.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Program.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Program.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Program.cs",
+              "RelativeToolTip": "BackendInsurance\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAF0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:42:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendInsurance\\appsettings.json",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\appsettings.json",
+              "RelativeToolTip": "BackendInsurance\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T06:42:15.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "03bcc1a5-14d3-4dd2-aa50-142601a53392",
+        "Display": 2,
+        "X": -727,
+        "Y": 281,
+        "Width": 1551,
+        "Height": 618,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Services\\UserService.cs",
+              "RelativeToolTip": "BackendInsurance\\Services\\UserService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T23:55:05.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendInsurance\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:10:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInsertValidator.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Validators\\User\\UserInsertValidator.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Validators\\User\\UserInsertValidator.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Validators\\User\\UserInsertValidator.cs",
+              "RelativeToolTip": "BackendInsurance\\Validators\\User\\UserInsertValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:54:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "BackendInsurance\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:11:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolizaInsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\DTOs\\Poliza\\PolizaInsertDto.cs",
+              "RelativeDocumentMoniker": "BackendInsurance\\DTOs\\Poliza\\PolizaInsertDto.cs",
+              "ToolTip": "C:\\Users\\josea\\Desktop\\BackendInsurance\\BackendInsurance\\DTOs\\Poliza\\PolizaInsertDto.cs",
+              "RelativeToolTip": "BackendInsurance\\DTOs\\Poliza\\PolizaInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:57:57.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
