@@ -7,7 +7,7 @@ const AuthorizeStatusModal = ({ show, onClose, poliza, onSubmit }) => {
 
   useEffect(() => {
     if (!show) return;
-    // si ya tiene estatus de esos, precarga; si no, default Autorizada
+    
     const current = poliza?.estatus;
     if (current === "Autorizada" || current === "Rechazada") setEstatus(current);
     else setEstatus("Autorizada");
