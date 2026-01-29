@@ -60,7 +60,7 @@ const NoticeOfPrivacy = () => {
   };
 
   const onAuthorize = (id) => {
-    const poliza = polizas.find(p => p.polizaID === id); // usa tu array original
+    const poliza = polizas.find(p => p.polizaID === id);
     setSelectedPoliza(poliza);
     setShowAuthorize(true);
   };
@@ -172,9 +172,9 @@ const NoticeOfPrivacy = () => {
         show={showCreate}
         onClose={() => setShowCreate(false)}
         onSubmit={async (payload) => {
-          await PolizaCreate(payload);   // aquí sí llamas el servicio
-          await GetPolizas();            // recargas tabla
-          setShowCreate(false);          // cierras modal
+          await PolizaCreate(payload);   
+          await GetPolizas();            
+          setShowCreate(false);          
         }}
       />
       <EditCotizacionModal
@@ -185,8 +185,8 @@ const NoticeOfPrivacy = () => {
           setSelectedPoliza(null);
         }}
         onSubmit={async (id, payload) => {
-          await PolizaUpdate(id, payload);  // tu servicio
-          await GetPolizas();               // recarga tabla
+          await PolizaUpdate(id, payload);  
+          await GetPolizas();              
           setShowEdit(false);
           setSelectedPoliza(null);
         }}
@@ -199,8 +199,8 @@ const NoticeOfPrivacy = () => {
          setSelectedPoliza(null);
        }}
        onSubmit={async (id, estatus) => {
-         await PolizaUpdateStatus(id, estatus); // servicio
-         await GetPolizas();                   // recarga tabla
+         await PolizaUpdateStatus(id, estatus);
+         await GetPolizas();                   
        }}
      />
     </div>
