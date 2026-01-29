@@ -6,14 +6,12 @@ const EditCotizacionModal = ({ show, onClose, poliza, onSubmit }) => {
   const [saving, setSaving] = useState(false);
   const [errors, setErrors] = useState({});
 
-  // Cargar datos al abrir
   useEffect(() => {
     if (!show || !poliza) return;
 
     const toLocalDateTime = (iso) => {
       if (!iso) return "";
       const d = new Date(iso);
-      // formato yyyy-MM-ddTHH:mm para input datetime-local
       const pad = (n) => String(n).padStart(2, "0");
       return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}`;
     };
@@ -103,7 +101,6 @@ const EditCotizacionModal = ({ show, onClose, poliza, onSubmit }) => {
         age: Number(form.age),
         contry: form.contry.trim(),
         gender: form.gender,
-        // si NO quieres editar estatus aquí, bórralo
         estatus: form.estatus,
       };
 
