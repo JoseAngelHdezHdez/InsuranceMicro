@@ -29,11 +29,9 @@ namespace BackendInsurance.Controllers
             if (user == null)
                 return Unauthorized("Invalid credentials.");
 
-            // ⚠️ Si guardas password en texto plano (no recomendado):
             if (user.password != dto.Password)
                 return Unauthorized("Invalid credentials.");
 
-            // Si ya tienes Role name, úsalo. Si no, usa RoleID como claim.
             var tokenData = CreateJwtToken(user.UserID, user.username, user.email, user.RoleID);
 
             return Ok(new LoginResponseDto
